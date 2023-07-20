@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random file.md",
+                "file": "test folder/asdhflkshfosfslfjdsfsdf.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random file.md",
+                "file": "test folder/asdhflkshfosfslfjdsfsdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random file.md",
+                "file": "test folder/asdhflkshfosfslfjdsfsdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random file.md"
+                "file": "test folder/asdhflkshfosfslfjdsfsdf.md"
               }
             }
           }
@@ -181,8 +181,9 @@
   },
   "active": "cea1b3cdb4fa1fac",
   "lastOpenFiles": [
-    "test folder/hehe.md",
     "random file.md",
+    "test folder/asdhflkshfosfslfjdsfsdf.md",
+    "test folder/hehe.md",
     "test folder/test.md",
     "test folder/aboba.md",
     "test folder"
