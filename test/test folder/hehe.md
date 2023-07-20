@@ -1,0 +1,1 @@
+[[beer]] is a good note as it resembles a good drink.
